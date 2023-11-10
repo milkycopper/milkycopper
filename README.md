@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milkycopper
-- 👀 I’m interested in numerical calculation and optimization
-- 🌱 I’m currently learning numerical calculation and optimization
+- 👀 I’m interested in numerical calculation and optimization and computer graphics
+- 🌱 I’m currently learning numerical calculation and optimization and vulkan
 - 📫 How to reach me: liuxiaonan@pku.edu.cn
 
 <!---
